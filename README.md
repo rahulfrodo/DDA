@@ -1,2 +1,3 @@
 # DDA
-Distributional data analysis via quantile functions and its application to modelling digital biomarkers of gait in Alzheimer’s Disease
+Distributional data analysis via quantile functions and its application to modelling digital biomarkers of gait in Alzheimer’s Disease. The .zip files contains a 
+Rmarkdown illustration of the proposed method along with associated data.
